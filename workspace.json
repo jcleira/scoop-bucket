@@ -1,12 +1,12 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jcleira/workspace/releases/download/v0.0.4/workspace_Windows_x86_64.zip",
+            "url": "https://github.com/jcleira/workspace/releases/download/v0.0.5/workspace_Windows_x86_64.zip",
             "bin": [
                 "workspace.exe"
             ],
-            "hash": "db1991009c46cbdb3566c50946eba2fe52b72087acf68c279a89d3bdf5439207"
+            "hash": "525e695185c8530e492d440ae27067bc89f54ecb5b6b1da6820bb39f5eb6c726"
         }
     },
     "homepage": "https://github.com/jcleira/workspace",
